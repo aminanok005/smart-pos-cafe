@@ -1,0 +1,10 @@
+{
+  "description": "Unified AI-powered POS ecosystem streamlines order management, staff coordination, inventory, and analytics for efficient restaurant operations and growth.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
